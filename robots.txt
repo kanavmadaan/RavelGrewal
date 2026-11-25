@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ravelgrewal.ca/sitemap.xml
